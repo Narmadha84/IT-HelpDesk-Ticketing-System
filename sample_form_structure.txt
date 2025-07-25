@@ -1,0 +1,10 @@
+
+Form Name: IT Help Desk Ticket Form
+
+Fields:
+1. Name (Short answer)
+2. Email Address (Short answer)
+3. Department (Short answer)
+4. Issue Type (Dropdown: Hardware, Software, Network, Other)
+5. Issue Description (Paragraph)
+6. Urgency Level (Multiple Choice: Low, Medium, High)
